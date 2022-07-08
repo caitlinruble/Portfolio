@@ -1,6 +1,6 @@
 ## Project Notebook 
 
-The code included is a summarized Jupyter Notebook containing all steps of the Data Science Method. For version history of each component draft, click [here].
+The code included is a summarized Jupyter Notebook containing all steps of the Data Science Method. For version history of each component draft, click [here](https://github.com/caitlinruble/Springboard/tree/main/Assignments/Classifying%20Disease%20-%20Capstone).
 
 Summary Notebook includes:
   - Loading Data (ensure the 'training.csv' file is in the same folder in order to run this code)
