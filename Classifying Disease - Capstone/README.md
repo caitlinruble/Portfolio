@@ -1,7 +1,7 @@
 # Patient Diagnosis with Machine Learning
 
 Data containing patients' symptoms and associated diagnosis were used to build supervised machine learning models to predict diagnosis in future patients. 
-The top performing models were Random Forest, XGBoost, SVC with RBF kernel, Gradient Boosting which all performed equally by yeilding 100% accuracy, F1 score, precision and recall on the held-out testing data.\
+The top performing models were Random Forest, XGBoost, SVC with RBF kernel, Gradient Boosting which all performed equally by yeilding 100% accuracy, F1 score, precision and recall on the held-out testing data.
 
 Ultimate model selection was based on balancing the time to train each model with the time it took each to predict an individual patient's diagnosis.
 By this criteria the Random Forest model proved to be the most commputationally and temporally efficient. The model metrics file can be found (here)
