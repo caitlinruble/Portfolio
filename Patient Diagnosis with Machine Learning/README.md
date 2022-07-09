@@ -18,4 +18,4 @@ Some topics covered in this end-to-end project are:
  - Building Classification Models Using Supervised Machine Learning Methods in SKLearn (Entropy-Based Decision Tree, Gini-Impurity-Based Decision Tree, AdaBoost, Gradient Boost, XGBoost, and SVC with RBF Kernel)
  - Model Evaluation through Analysis of Feature Importances and Training/Prediction Time
 
-A report and slide deck summarizing the process and findings can be found in the respective folders. Please feel free to reach out with any additional questions, ideas for extensions, constructive criticism, and collabortion discussions at caitlinoruble@gmail.com.
+A report and slide deck summarizing the process and findings can be found in the respective folders. Please feel free to reach out with any additional questions, ideas for extensions, constructive criticism, and collaboration discussions at caitlinoruble@gmail.com.
