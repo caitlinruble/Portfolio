@@ -5,8 +5,8 @@
            	 F1 score: 100%
           	 Precision: 100%
            	 Recall: 100%
-		 Time to fit to training data: 0.61s
-		 Time to predict diagnosis for a single patient sample: 0.04ms
+		 Time to fit to training data: 1.01s
+		 Time to predict diagnosis for a single patient sample: 0.09ms
             
 ### 	Hyperparameters: 
 	     {'bootstrap': True,
